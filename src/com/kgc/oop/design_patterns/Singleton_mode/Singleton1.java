@@ -6,6 +6,7 @@ package com.kgc.oop.design_patterns.Singleton_mode;
  *      饿汉式
  *          速度快 但是占内存
  */
+@SuppressWarnings("all")
 public class Singleton1 {
 
     private Singleton1(){}

@@ -5,6 +5,7 @@ package com.kgc.oop.design_patterns.Singleton_mode;
  * 单例模式
  *      静态内部类
  */
+@SuppressWarnings("all")
 public class Singleton2 {
 
     private static class Singleton_static{

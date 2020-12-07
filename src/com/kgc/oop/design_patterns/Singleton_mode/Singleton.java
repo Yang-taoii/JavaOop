@@ -6,6 +6,7 @@ package com.kgc.oop.design_patterns.Singleton_mode;
  *      懒汉式
  *          速度慢
  */
+@SuppressWarnings("all")
 public class Singleton {
 
     private Singleton(){}
